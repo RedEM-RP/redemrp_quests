@@ -31,7 +31,7 @@ All configuration is in Config.lua file
 ## 4. Credits
 [Ktos93](http://github.com/Ktos93)
 
-[amakuu](http://github.com/amakuu) - Thanks for the redemrp_skin look and files with components
+[amakuu](http://github.com/amakuu)
 
 
 Join discord to get support! - https://discord.gg/FKH4uwb
