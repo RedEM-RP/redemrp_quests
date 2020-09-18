@@ -21,9 +21,9 @@ Without redemrp_skin nothing show up
 ## 3. Configuration
 There is three types of quests
 
-1 - Item Quest
-2 - Hunt Quest
-3 - Skin Quest
+- 1 - Item Quest
+- 2 - Hunt Quest
+- 3 - Skin Quest
 
 All configuration is in Config.lua file
 
