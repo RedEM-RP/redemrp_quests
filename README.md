@@ -1,4 +1,5 @@
 # redemrp_quests
+This system allows you to create multiple quests and npc's
 
 ## 1. Requirements
 
